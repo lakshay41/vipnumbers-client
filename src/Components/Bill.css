@@ -1,0 +1,52 @@
+
+.btn1 {
+    background: none;
+    outline: white;
+    border:1px solid white;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.btn2 {
+    background: none;
+    outline: white;
+    border:1px solid black;
+    padding: 5px 10px;
+    color: black;
+    margin-right: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.btn3:hover {
+    background-color: red;
+    color: black;
+}
+.btn2:hover {
+    background-color: black;
+    color: white;
+}
+.btn3 {
+    background: none;
+    outline: red;
+    border:1px solid red;
+    padding: 5px 10px;
+    color: red;
+    margin-right: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+.modalinputs input {
+    height: 35px;
+    font-size: medium;
+    width: 100%;
+    border-top: none;
+    outline: none;
+    margin-top: 5px;
+    padding-left: 5px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}

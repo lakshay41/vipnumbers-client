@@ -1,0 +1,26 @@
+.name {
+    margin: 0px 0px 10px 10px;
+    color: #003249;
+}
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+.navbtn {
+    margin: 0px 3px 10px 0px;
+}
+.navbtn1 {
+    background: none;
+    outline: #003249;
+    border:1px solid #003249;
+    padding: 5px 10px;
+    color: #003249;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-right: 7px;
+    font-weight: bold;
+}
+
+.navbtn1:hover {
+    background-color: #7398b2;
+}

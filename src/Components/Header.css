@@ -1,0 +1,20 @@
+.header {
+    background-color: #003249;
+    text-align: center;
+}
+.header a {
+    float: left;
+}
+.header img {
+    height: 50px;
+    padding: 10px;
+}
+.title {
+    display: inline-block;
+}
+.title h1 {
+    margin: 0px;
+}
+.title h4 {
+    margin: 0px;
+}

@@ -1,0 +1,38 @@
+.label {
+    color: #003249;
+    font-weight: bold;
+}
+.inputs {
+    width: 50vw;
+    margin: auto;
+    margin-top: 20px;
+} 
+.inputs input {
+    height: 35px;
+    font-size: medium;
+    width: 100%;
+    border-top: none;
+    outline: none;
+    margin-top: 5px;
+    padding-left: 5px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.inputs input:focus {
+    background-color: #E3E8F0;
+}
+.btn {
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 65px;
+}
+.btn button {
+    background-color: #003249;
+    padding: 10px 30px;
+    outline: none;
+    border-radius: 5px;
+    color: white;
+}
+.btn button:hover {
+    box-shadow: 1px 3px 10px black;
+}
